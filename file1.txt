@@ -1,2 +1,3 @@
 This is the first line.
-                  ------ Muhtar 
+I studied git now, this is first file.
+                  ------ Muhtar

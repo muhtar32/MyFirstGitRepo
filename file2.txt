@@ -1,1 +1,2 @@
 apple, orange
+I studied git now, this is second file.

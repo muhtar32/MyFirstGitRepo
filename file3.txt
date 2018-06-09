@@ -1,1 +1,2 @@
 this is file 3.
+I studied git now, this is three file.
