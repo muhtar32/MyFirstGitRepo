@@ -1,3 +1,3 @@
 this is file 3.
-I studied git now, this is three file.
 I add another line to my file3.
+I deleted line 2 and add another line again.
